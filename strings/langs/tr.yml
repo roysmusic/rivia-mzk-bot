@@ -303,19 +303,19 @@ ST_B_25 : "🫂 Oynatma Tipi"
 ST_B_26 : "🗑 Command Clean"
 
 #Song
-SG_B_1 : "↗️ Open Private Chat"
-SG_B_2 : "🔊 Audio"
+SG_B_1 : "↗️ Özel Mesaja Git"
+SG_B_2 : "🔊 Ses"
 SG_B_3 : "🎥 Video"
 
 #Stats
-SA_B_1 : "📢 Top 10 Chat"
-SA_B_2 : "🔢 Top 10 Tracks"
-SA_B_3 : "🧛 Top 10 Users"
-SA_B_4 : "🏷 Top 10 Here"
-SA_B_5 : "💡 Overall Stats"
-SA_B_6 : "👤 User Stats"
-SA_B_7 : "🔢 Global Top 10 Stats"
-SA_B_8 : "🤖 Bot Stats"
+SA_B_1 : "📢 En İyi 10 Sohbet"
+SA_B_2 : "🔢 En İyi 10 Parça"
+SA_B_3 : "🧛 En İyi 10 Kullanıcı"
+SA_B_4 : "🏷 Burada En İyi 10"
+SA_B_5 : "💡 Genel İstatistikler"
+SA_B_6 : "👤 Kullanıcı İstatistikleri"
+SA_B_7 : "🔢 Küresel İlk 10 İstatistik"
+SA_B_8 : "🤖 Bot İstatistiği"
 
 
 
